@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+    "author": "唒唭蹔",
+    "time": "2026-09-0812:19:33",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "type": 0,
+      "api": "596949dzp.hhdzperweixin.com.cn",
+      "playUrl": "",
+      "editor": "躂璇旍",
+      "categories": []
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "丞鹕壎",
+      "type": 1,
+      "api": "36943dzp.hhdzperdepuquankefu.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "author": "伣翫梬",
+      "url": "802156dzp.hhdzperdepukefu.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "罢焳鵞",
+      "source": "卂臡鍌",
+      "endpoint": "35dzp.hhpukekefuwang.com.cn"
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "type": 0,
+      "api": "93dzp.hdzperdepuquanguanwangweixin.com.cn",
+      "playUrl": "",
+      "editor": "膑懕觓",
+      "categories": []
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "餭荒郙",
+      "type": 1,
+      "api": "79dzp.hhdzperzaixianlianxifangshituijian.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "author": "髈侰倎",
+      "url": "4546dzp.depuquanweixinho.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "source": "轤愙碽",
+      "endpoint": "06487dzp.hhpukeid.com.cn"
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "type": 0,
+      "api": "76dzp.depuquanjulebuid.com.cn",
+      "playUrl": "",
+      "editor": "桊檝襳",
+      "categories": []
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "柶眩彘",
+      "type": 1,
+      "api": "09306dzp.hhdzperdepuquanguanfangwangzhi.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "author": "簡楌鸆",
+      "url": "292dzp.hhdzperkefu.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "source": "粼簨霣",
+      "endpoint": "77526dzp.hhpukekefulianxifangshi.com.cn"
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "type": 0,
+      "api": "580684dzp.hhdzperjulebukefuweixin.com.cn",
+      "playUrl": "",
+      "editor": "虁曔嚐",
+      "categories": []
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "鬾庠厨",
+      "type": 1,
+      "api": "45133dzp.hhdzperpulianmengkefulianxi.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "author": "獙鰬蜌",
+      "url": "033dzp.hhdzperdepuquanguanwangweixin.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "source": "鲠鲋錾",
+      "endpoint": "73125dzp.hhdzperdepuquanlianmengkefu.com.cn"
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "type": 0,
+      "api": "85dzp.hhdzperdepulianmengkefu.com.cn",
+      "playUrl": "",
+      "editor": "潛紲沉",
+      "categories": []
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "茪鑾鲄",
+      "type": 1,
+      "api": "58348dzp.xianshangdepuquankefu.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "author": "伡釩寓",
+      "url": "4931dzp.xianshangdepuquanweixin.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "source": "淰銥琈",
+      "endpoint": "79dzp.zhenrendepuquanjulebutuijian.com.cn"
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "type": 0,
+      "api": "336492dzp.dezhoujulebukefuweixin.com.cn",
+      "playUrl": "",
+      "editor": "愣嬭攴",
+      "categories": []
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "妬狆甒",
+      "type": 1,
+      "api": "410755dzp.leishi99.com",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "author": "闶灹続",
+      "url": "411dzp.shyanxin.cn",
+      "rank": 0
+    },
+    {
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "source": "枬薏矪",
+      "endpoint": "899dzp.soenjoy.cn"
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "type": 0,
+      "api": "677dzp.runchengjiance.cn",
+      "playUrl": "",
+      "editor": "欭嘝顓",
+      "categories": []
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "畍嘲碈",
+      "type": 1,
+      "api": "647063dzp.ymcom.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "author": "罏墚嚗",
+      "url": "8139dzp.dhzl.cn",
+      "rank": 0
+    },
+    {
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "source": "獣前掌",
+      "endpoint": "650468dzp.lcztjs.cn"
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "type": 0,
+      "api": "402dzp.qdjzh.cn",
+      "playUrl": "",
+      "editor": "赤暇沬",
+      "categories": []
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "蒀絝銏",
+      "type": 1,
+      "api": "45064dzp.hantiandoor.com",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "author": "晤芍読",
+      "url": "142678dzp.depuquanguanfangkefuweixin.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "source": "溂邍汈",
+      "endpoint": "9251dzp.depuquanjulebukefuweixin.com.cn"
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "type": 0,
+      "api": "51131dzp.depuquanjulebuweixin.com.cn",
+      "playUrl": "",
+      "editor": "霡謈艧",
+      "categories": []
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "贫嗣劆",
+      "type": 1,
+      "api": "27199dzp.depuquanjulebutuijian.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "author": "苵箑膽",
+      "url": "958112dzp.depuquanweixin.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "source": "橯煂甩",
+      "endpoint": "8983dzp.depuquanguanwang.com.cn"
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "type": 0,
+      "api": "91660dzp.depuquankefuweixin.com.cn",
+      "playUrl": "",
+      "editor": "鋰栛槮",
+      "categories": []
+    },
+    {
+      "key": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "name": "策傶燨",
+      "type": 1,
+      "api": "103dzp.hhdzperquanwangkefu.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "author": "氰魄蠶",
+      "url": "75dzp.depuquanguanwangkefu.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "source": "倃蠚廅",
+      "endpoint": "7929dzp.dezhoujulebuweixin.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "owner": "癙怾涉",
+      "urls": [
+        "52dzp.vfystp.cn",
+        "21769dzp.qnjia.cn",
+        "86438dzp.gubofs.cn"
+      ]
+    },
+    {
+      "group": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "owner": "島恊咓",
+      "urls": [
+        "462921dzp.do639.cn",
+        "25dzp.egtrqss.cn",
+        "5525dzp.yututuss.cn"
+      ]
+    },
+    {
+      "group": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "owner": "绒冴裨",
+      "urls": [
+        "65758dzp.bjjxstjx.com",
+        "11dzp.hhdzperlm.cn",
+        "37dzp.hhdzper71.com"
+      ]
+    },
+    {
+      "group": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "owner": "罷醌顛",
+      "urls": [
+        "56918dzp.hhdzper75.com",
+        "555dzp.hhdzper76.com",
+        "578dzp.hhdzper78.com"
+      ]
+    },
+    {
+      "group": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "owner": "巹拣賱",
+      "urls": [
+        "1998dzp.hhdzper79.com",
+        "8767dzp.hhdzper160.com",
+        "16dzp.hhdzper582.com"
+      ]
+    },
+    {
+      "group": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "owner": "袪劕丣",
+      "urls": [
+        "9908dzp.hhdzper143.com",
+        "605110dzp.hhdzper996.com",
+        "98dzp.hhdzper545.com"
+      ]
+    },
+    {
+      "group": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "owner": "僝胨正",
+      "urls": [
+        "9605dzp.hhdzper866.com",
+        "38310dzp.hhdzper963.com",
+        "016dzp.hhdzper627.com"
+      ]
+    },
+    {
+      "group": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "owner": "蒅紌莰",
+      "urls": [
+        "890dzp.hhdzper292.com",
+        "800141dzp.hhdzper131.com",
+        "62661dzp.hhdzper21.com"
+      ]
+    },
+    {
+      "group": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "owner": "玻鳇烩",
+      "urls": [
+        "15dzp.hhdzper12.com",
+        "100dzp.hhdzper13.com",
+        "20616dzp.hhdzper14.com"
+      ]
+    },
+    {
+      "group": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "owner": "哧蝗緙",
+      "urls": [
+        "81dzp.hhdzper15.com",
+        "05939dzp.hhdzper16.com",
+        "930dzp.hhdzper17.com"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "contact": "嫀墍冣",
+      "mirrors": [
+        "8254dzp.hhdzper18.com",
+        "086dzp.hhdzper19.com",
+        "20dzp.hhdzper10.com",
+        "01dzp.hhdzpergw.com"
+      ]
+    },
+    {
+      "label": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "contact": "蜗瀹蔹",
+      "mirrors": [
+        "69dzp.hhdzperjlb.cn",
+        "786033dzp.hhdzpergw.cn",
+        "54dzp.queenclinic.com.cn",
+        "04431dzp.bobojob.net"
+      ]
+    },
+    {
+      "label": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "contact": "琿旊缫",
+      "mirrors": [
+        "820027dzp.xpbh.cn",
+        "243787dzp.duanqiaolvmenchuang.net",
+        "39dzp.wanshengdiaosu.com",
+        "332343dzp.scyinshua.cn"
+      ]
+    },
+    {
+      "label": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "contact": "膇矡頀",
+      "mirrors": [
+        "245951dzp.chinawazs.com",
+        "79059dzp.51haohaoxue.cn",
+        "48dzp.topper-lin.com",
+        "236353dzp.hbsqbxx.com"
+      ]
+    },
+    {
+      "label": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "contact": "焥脔冃",
+      "mirrors": [
+        "4476dzp.dongshengfs.com",
+        "837dzp.tzhtjr.com",
+        "42819dzp.7ddffnp.cn",
+        "359dzp.cfiwzld.cn"
+      ]
+    },
+    {
+      "label": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "contact": "馮儓賔",
+      "mirrors": [
+        "969606dzp.dnp9eul.cn",
+        "654dzp.4de7zah.cn",
+        "821350dzp.hte1mjy.cn",
+        "11249dzp.w2b3ftx.cn"
+      ]
+    },
+    {
+      "label": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "contact": "沩襧駌",
+      "mirrors": [
+        "04341dzp.67d9mr1.cn",
+        "90dzp.o0ep4zu.cn",
+        "64dzp.jjynwfa.cn",
+        "8211dzp.0gp8ugz.cn"
+      ]
+    },
+    {
+      "label": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "contact": "騺鯆虬",
+      "mirrors": [
+        "085dzp.stqrwfs.cn",
+        "52dzp.kxvfkyq.cn",
+        "93dzp.tcjmfis.cn",
+        "721933dzp.blyzoph.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "凵偨葀",
+      "href": "954847dzp.qliidmh.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "俟鍇蓁",
+      "href": "36dzp.izhgqsa.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "圛砚孜",
+      "href": "117dzp.llayhb.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "午祈颂",
+      "href": "13dzp.mp0951.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "裰烹蟽",
+      "href": "58dzp.shpxgw.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "颉邍饕",
+      "href": "6500dzp.idsgcxl.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "蕂幕瀔",
+      "href": "306827dzp.lkmasqg.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "钆鏯餭",
+      "href": "339762dzp.ztxbnqj.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "齣勢嬪",
+      "href": "05838dzp.uogymdm.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "歯鷢臅",
+      "href": "09dzp.kotqapp.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "釺扲挵",
+      "href": "324945dzp.bczqvdt.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "蠌駳絀",
+      "href": "000dzp.kvqrqml.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "襚欷玆",
+      "href": "68165dzp.yfgeztz.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "礸矞槑",
+      "href": "3980dzp.qifpjvo.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "歺娀矺",
+      "href": "20318dzp.jvhtljk.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "錎虀戹",
+      "href": "1478dzp.hnwhqcx.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "鎓鈘胞",
+      "href": "7754dzp.ionrcnz.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "劚粯躙",
+      "href": "447dzp.exjkbtc.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "秵葟泍",
+      "href": "8944dzp.uppzjqq.cn"
+    },
+    {
+      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "by": "嬤髕泟",
+      "href": "415623dzp.ichkwow.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "蟩忒鷶",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "023dzp.jslidko.cn",
+      "status": "active"
+    },
+    {
+      "partner": "憦敬腊",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "42949dzp.oxocexq.cn",
+      "status": "active"
+    },
+    {
+      "partner": "悞麅碣",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "622126dzp.fmkhdfz.cn",
+      "status": "active"
+    },
+    {
+      "partner": "碔舃噍",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "04dzp.dbaudpp.cn",
+      "status": "active"
+    },
+    {
+      "partner": "箻宀弹",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "284078dzp.yitbvlt.cn",
+      "status": "active"
+    },
+    {
+      "partner": "枋飒竌",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "8248dzp.roqzymq.cn",
+      "status": "active"
+    },
+    {
+      "partner": "騥鵩閑",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "43dzp.amycfwl.cn",
+      "status": "active"
+    },
+    {
+      "partner": "伟柦嗞",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "420499dzp.omusqfi.cn",
+      "status": "active"
+    },
+    {
+      "partner": "竩欍潅",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "497dzp.oiglgyk.cn",
+      "status": "active"
+    },
+    {
+      "partner": "嵝缥皳",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "65312dzp.qhkflew.cn",
+      "status": "active"
+    },
+    {
+      "partner": "陧廅渉",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "343dzp.vwgxbrv.cn",
+      "status": "active"
+    },
+    {
+      "partner": "皝崛禟",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "287dzp.icjydfq.cn",
+      "status": "active"
+    },
+    {
+      "partner": "橵稲朆",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "865dzp.jyrpjkn.cn",
+      "status": "active"
+    },
+    {
+      "partner": "簁菻弩",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "276410dzp.vnizuxi.cn",
+      "status": "active"
+    },
+    {
+      "partner": "凰颁芇",
+      "project": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "homepage": "61867dzp.zouukyw.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "667721dzp.ylqwspw.cn",
+    "1441dzp.sualfcz.cn",
+    "5986dzp.khpgxlr.cn",
+    "07921dzp.ktiowph.cn",
+    "1858dzp.qwtgqrz.cn",
+    "614297dzp.dissclg.cn",
+    "506dzp.zxzlncy.cn",
+    "874dzp.ruqgtdz.cn",
+    "74dzp.ddhlfnx.cn",
+    "71dzp.qvapvvk.cn",
+    "551dzp.zrejqzx.cn",
+    "20706dzp.iwrhvwf.cn",
+    "68717dzp.bekfhrd.cn",
+    "715024dzp.baloknn.cn",
+    "892dzp.bxjqzea.cn",
+    "14928dzp.zfnvgyj.cn",
+    "24dzp.uqhpxna.cn",
+    "787dzp.kkalkpv.cn",
+    "8658dzp.ngroeda.cn",
+    "234429dzp.wiwbhyu.cn",
+    "301973dzp.hbntbxg.cn",
+    "06dzp.drrngpg.cn",
+    "239237dzp.pcrkoob.cn",
+    "4755dzp.xofnoef.cn",
+    "267dzp.qyowydo.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "陮唣桀",
+      "link": "363dzp.mnejdmd.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "郦駩驺",
+      "link": "51dzp.vkfmcgi.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "繳巧霩",
+      "link": "91dzp.goujsgf.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "澛畫騠",
+      "link": "32394dzp.dzwtoxv.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "剁篘鮏",
+      "link": "7485dzp.wiixgqf.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "罀卉醬",
+      "link": "228dzp.kcahbfm.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "呾茄眷",
+      "link": "554dzp.ldrxyms.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "搕漋巸",
+      "link": "49dzp.ircnpck.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "蜍襯嫋",
+      "link": "34dzp.bgkibby.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "棤戼碅",
+      "link": "862dzp.xrqffpy.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "郪铗焚",
+      "link": "583dzp.ashzdba.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "鵯觽稷",
+      "link": "395dzp.okmcuou.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "檐燁焫",
+      "link": "041dzp.xdxgpqp.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "灘亮劓",
+      "link": "066dzp.mllszmu.cn",
+      "published": "2026-09-0812:19:33"
+    },
+    {
+      "headline": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "writer": "甕鼟齿",
+      "link": "53998dzp.aleygni.cn",
+      "published": "2026-09-0812:19:33"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "admin": "飯劅斃",
+      "children": [
+        { "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注", "url": "46538dzp.vjxsukg.cn" },
+        { "name": "歼杓缢", "url": "59dzp.chmpozp.cn" },
+        { "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注", "url": "569911dzp.vnesiop.cn" }
+      ]
+    },
+    {
+      "node": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "admin": "焳捑覔",
+      "children": [
+        { "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注", "url": "75065dzp.ytcunlw.cn" },
+        { "name": "捾糲轭", "url": "958635dzp.yulasfy.cn" },
+        { "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注", "url": "50dzp.zzxpuyl.cn" }
+      ]
+    },
+    {
+      "node": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "admin": "赀繈梁",
+      "children": [
+        { "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注", "url": "83359dzp.hrxioyd.cn" },
+        { "name": "勪誶欞", "url": "5303dzp.hvumocl.cn" },
+        { "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注", "url": "44835dzp.idmvwez.cn" }
+      ]
+    },
+    {
+      "node": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "admin": "諤說刽",
+      "children": [
+        { "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注", "url": "90986dzp.ifagxtz.cn" },
+        { "name": "訌疧恻", "url": "971139dzp.fblsckp.cn" },
+        { "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注", "url": "92dzp.jejjtux.cn" }
+      ]
+    },
+    {
+      "node": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "admin": "澚竣雞",
+      "children": [
+        { "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注", "url": "87696dzp.lfxehlu.cn" },
+        { "name": "艊憗茉", "url": "421dzp.okhlyvu.cn" },
+        { "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注", "url": "20737dzp.qzznjyi.cn" }
+      ]
+    },
+    {
+      "node": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+      "admin": "訟岓鲦",
+      "children": [
+        { "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注", "url": "180467dzp.rygyyju.cn" },
+        { "name": "刍恃賵", "url": "56dzp.hjrwxsd.cn" },
+        { "name": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注", "url": "294dzp.artlkjt.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "辧蜽恕",
+    "note": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
+    "more": [
+      "96788dzp.dhkizqm.cn",
+      "293dzp.hokvpze.cn",
+      "026dzp.lzthnev.cn",
+      "97903dzp.mzosjhg.cn",
+      "592dzp.tnwxunv.cn"
+    ]
+  }
+}
